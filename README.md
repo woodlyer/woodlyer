@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @woodlyer
-- 👀 I’m interested in web
-- 🌱 I’m currently learning golang
+- 👀 I’m interested in web3
+- 🌱 I’m currently learning rust
 - 💞️ I’m looking to collaborate on github.com
 
 
